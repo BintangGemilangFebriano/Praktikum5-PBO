@@ -1,0 +1,2 @@
+[12-09-2026] - Hari ini saya belajar Pemrograman Berorientasi Objek.
+[13-09-2026] - Hari ini saya belajar tentang file dan persistence pada Java.
